@@ -1,0 +1,8 @@
+WDYL? [06/24/19]
+
+Learned about object oriented programming and the 4 properties about it:
+-incapsulation
+-abstraction
+-inheritance
+-polymorphism
+put them to use trying to clone myself lmao
