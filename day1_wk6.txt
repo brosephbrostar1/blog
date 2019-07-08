@@ -1,0 +1,5 @@
+WDYL? [07/08/19]
+
+Finished an 'api' functionality set for the blog website, just need to connect that to HTML,
+so that way it holds in sql! Roger said that it makes sense, so hopefully the idea can become tangible
+instead of staying in my head (or Bren's).
