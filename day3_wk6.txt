@@ -1,0 +1,7 @@
+WDYL? [07/10/19]
+
+today we learned about environmental variables n stuff, spec the dotenv addon to js so that way we 
+can further control ux and ui on websites! we ended up making a bunch of variables to hold info for
+what we already had, so the commit for today looks a lot different (and shorter) than before.
+i'm seriously debating getting a career in computer science, despite the constant advancement
+of tech, both for the money, and to sate my need for a challenge. #qUiRkY
