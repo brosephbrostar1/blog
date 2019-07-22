@@ -1,0 +1,6 @@
+WDYL? [07/22/19]
+
+today we did social media logins for the project! i also learned that i didnt add a 
+configuration for the databases, which is a quick fix, but it sucked to know that i had something missing.
+other than that, i have the tsrat of a contact page, so at least im not completely useless to the team.
+hopefully i'll be upgraded to 30% lmao
